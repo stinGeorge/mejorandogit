@@ -62,7 +62,7 @@ h3
 
 header.sidebar
 {
-  background-color: #EEEEEE;
+  background-color: #2FBDD9;
   width: 30%;
   background-size: cover;
   display: inline-block;
@@ -91,7 +91,7 @@ div.sidebar_userimage
 
 div.sidebar_userimage img
 {
-
+  background: #007890;
   border-radius: 26px;
   width: 75px;
   padding: 7px;
@@ -101,7 +101,7 @@ div.sidebar_userimage img
 div.comunidad-autoria
 {
   border-bottom: solid 1px white;
-  background: black;
+  background: #007890;
   border-top: solid 1px white;
   padding: 3% 0;
   margin: 12% 0;
